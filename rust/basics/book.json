@@ -1,0 +1,10 @@
+{
+  "structure.readme": "variables.md",
+  "plugins": ["-sharing"],
+  "pluginsConfig": {
+    "fontsettings": {
+      "theme": "night",
+      "family": "sans"
+    }
+  }
+}
